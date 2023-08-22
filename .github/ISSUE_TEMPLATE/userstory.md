@@ -1,5 +1,5 @@
 ---
-name: User Story one
+name: userstory
 about: User story for the final project
 title: ''
 labels: ''
